@@ -1,0 +1,117 @@
+README – Football Match Data Analysis & Prediction
+
+Project Overview
+
+This project uses Machine Learning and Data Analysis to analyze football match statistics and predict match performance using historical game data.
+
+The system applies both unsupervised learning (K-Means clustering) and supervised learning (Random Forest Regression) to discover patterns and make predictions.
+
+⸻
+
+Steps Performed in the Code
+
+1. Import Libraries
+
+The code imports required Python libraries such as:
+	•	Pandas – data handling
+	•	NumPy – numerical computation
+	•	Matplotlib & Seaborn – data visualization
+	•	Scikit-learn – machine learning algorithms
+
+⸻
+
+2. Load Dataset
+
+The dataset games.csv is loaded using Pandas to analyze football match statistics.
+
+Example features in the dataset include:
+	•	points scored
+	•	yards gained
+	•	turnovers
+	•	game week information
+
+⸻
+
+3. Data Preprocessing
+
+Only numeric columns are selected for analysis because machine learning algorithms require numerical data.
+
+Missing values are removed to ensure clean data for modeling.
+
+⸻
+
+4. Correlation Analysis
+
+A correlation matrix heatmap is generated to show relationships between different game statistics.
+
+This helps identify which variables influence match outcomes.
+
+⸻
+
+5. Feature Scaling
+
+The dataset is standardized using StandardScaler so that all features have the same scale before clustering.
+
+⸻
+
+6. K-Means Clustering
+
+K-Means clustering is applied to group matches into three clusters based on similar statistical patterns.
+
+Clusters may represent:
+	•	high-performance matches
+	•	moderate-performance matches
+	•	low-performance matches
+
+A scatter plot visualizes these clusters.
+
+⸻
+
+7. Supervised Learning Model
+
+A Random Forest Regressor is trained to predict the number of points scored in a match (pts_win).
+
+The dataset is split into:
+	•	Training set (80%)
+	•	Testing set (20%)
+
+⸻
+
+8. Model Evaluation
+
+The model performance is evaluated using:
+	•	R² Score – measures how well the model explains the data
+	•	RMSE (Root Mean Square Error) – measures prediction error
+	•	F1 Score – evaluates classification accuracy after grouping predictions
+
+⸻
+
+9. Feature Importance
+
+A bar chart shows which features have the most influence on predicting match outcomes.
+
+⸻
+
+10. Data Distribution
+
+A histogram visualizes the distribution of points scored in matches.
+
+⸻
+
+Technologies Used
+	•	Python
+	•	Pandas
+	•	NumPy
+	•	Matplotlib
+	•	Seaborn
+	•	Scikit-learn
+
+⸻
+
+Output
+
+The model generates:
+	•	Match clusters
+	•	Correlation analysis
+	•	Prediction performance metrics (R², RMSE, F1 Score)
+	•	Feature importance insights
