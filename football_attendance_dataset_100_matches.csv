@@ -1,0 +1,101 @@
+date,home_team,away_team,home_goals,away_goals,home_form_points_last5,away_form_points_last5,home_league_position,away_league_position,ticket_price_avg,temperature_c,weather,match_importance,attendance
+2024-01-01,AC Milan,Real Madrid,1,1,6,3,15,11,97.97,19.9,Sunny,High,30877
+2024-01-02,Manchester City,Manchester United,2,0,4,1,12,6,20.08,29.8,Sunny,Low,26012
+2024-01-03,Inter Milan,Real Madrid,3,2,10,10,10,16,43.28,7.3,Rainy,High,30919
+2024-01-04,PSG,Real Madrid,2,1,9,4,2,20,44.1,22.1,Rainy,Medium,43158
+2024-01-05,Bayern Munich,Inter Milan,2,2,3,1,6,10,76.77,5.8,Sunny,Low,32956
+2024-01-06,Manchester United,PSG,1,1,13,7,16,13,47.13,25.7,Rainy,Low,45568
+2024-01-07,PSG,Manchester United,1,0,14,12,1,7,62.34,14.9,Rainy,High,49091
+2024-01-08,Inter Milan,PSG,2,1,10,4,10,7,85.11,27.9,Cloudy,Low,39033
+2024-01-09,Arsenal,Juventus,4,0,4,2,12,8,47.47,19.0,Cloudy,Low,28348
+2024-01-10,Barcelona,Chelsea,2,1,2,14,7,17,51.44,17.7,Cloudy,Medium,26003
+2024-01-11,Barcelona,Manchester United,0,1,6,10,19,2,82.44,12.4,Cloudy,Low,30587
+2024-01-12,Real Madrid,Chelsea,0,1,9,6,7,1,47.21,21.2,Sunny,Medium,36670
+2024-01-13,Liverpool,Juventus,1,0,5,7,9,5,89.24,11.7,Cloudy,Low,25225
+2024-01-14,Inter Milan,Arsenal,1,0,13,0,20,12,45.18,17.4,Rainy,Low,39391
+2024-01-15,Chelsea,Real Madrid,2,2,0,1,2,5,54.51,20.9,Rainy,Medium,25034
+2024-01-16,AC Milan,Juventus,2,3,5,7,5,20,118.34,15.0,Cloudy,High,31495
+2024-01-17,Manchester United,Real Madrid,3,2,3,2,3,19,54.87,7.4,Sunny,High,37716
+2024-01-18,Manchester United,Manchester City,1,3,6,11,16,16,75.52,18.2,Sunny,Low,30389
+2024-01-19,Real Madrid,Chelsea,2,0,2,2,16,16,109.71,27.2,Cloudy,Medium,25078
+2024-01-20,AC Milan,Liverpool,2,1,2,13,3,18,36.08,18.7,Sunny,Medium,33442
+2024-01-21,Liverpool,Manchester United,2,0,4,3,8,7,92.09,12.7,Rainy,Medium,31747
+2024-01-22,Inter Milan,AC Milan,2,2,2,5,8,2,55.01,21.1,Rainy,Low,28577
+2024-01-23,Juventus,AC Milan,5,2,0,11,14,6,57.02,5.4,Sunny,High,23642
+2024-01-24,Inter Milan,Manchester United,2,1,14,5,3,8,27.04,10.2,Sunny,Medium,41562
+2024-01-25,Chelsea,Manchester City,1,0,7,0,9,11,90.89,18.8,Rainy,High,31701
+2024-01-26,PSG,Manchester United,1,1,6,8,4,13,39.43,6.8,Rainy,Medium,35786
+2024-01-27,Bayern Munich,Manchester United,1,2,1,1,19,17,23.73,25.6,Sunny,Medium,19508
+2024-01-28,Chelsea,Manchester City,2,1,12,3,15,3,83.74,23.2,Sunny,Low,37549
+2024-01-29,Juventus,Liverpool,2,0,11,9,5,9,88.85,6.5,Sunny,High,41513
+2024-01-30,Arsenal,Chelsea,0,1,14,4,3,12,76.6,9.0,Rainy,Medium,52034
+2024-01-31,Barcelona,Manchester City,3,1,14,0,14,20,37.53,5.4,Sunny,Low,39805
+2024-02-01,Inter Milan,PSG,5,0,7,4,13,4,81.59,28.6,Rainy,Medium,34167
+2024-02-02,Inter Milan,Juventus,1,1,12,2,11,5,82.59,25.5,Cloudy,High,37644
+2024-02-03,Chelsea,Liverpool,1,2,1,2,17,8,58.54,22.0,Sunny,Low,22365
+2024-02-04,PSG,Arsenal,3,1,10,12,4,4,37.74,23.8,Sunny,Low,44658
+2024-02-05,Real Madrid,Barcelona,1,0,8,2,9,17,73.43,17.4,Rainy,Low,33781
+2024-02-06,AC Milan,Chelsea,4,1,3,11,9,19,29.13,13.0,Rainy,Low,32574
+2024-02-07,Chelsea,Inter Milan,1,4,6,8,7,13,113.09,29.4,Rainy,Medium,36074
+2024-02-08,PSG,Manchester City,0,2,9,11,17,6,28.41,22.5,Rainy,Low,27955
+2024-02-09,AC Milan,Real Madrid,0,2,3,0,7,13,95.34,14.4,Rainy,High,25877
+2024-02-10,Manchester City,AC Milan,5,0,9,2,7,3,45.37,15.1,Cloudy,Low,35652
+2024-02-11,Manchester City,Chelsea,2,0,8,7,1,6,63.63,25.1,Sunny,Medium,31722
+2024-02-12,Bayern Munich,Manchester City,3,3,4,10,5,4,75.39,29.2,Rainy,Low,31967
+2024-02-13,PSG,Real Madrid,1,4,11,4,8,4,66.37,13.8,Rainy,Medium,42128
+2024-02-14,AC Milan,PSG,3,2,3,12,16,13,111.09,25.6,Rainy,Low,25379
+2024-02-15,Barcelona,Liverpool,3,0,0,1,15,17,57.67,23.7,Sunny,High,21653
+2024-02-16,PSG,Bayern Munich,5,0,14,0,16,6,89.17,18.4,Rainy,Medium,36830
+2024-02-17,Arsenal,Bayern Munich,1,2,12,12,4,1,87.17,20.5,Sunny,Medium,40062
+2024-02-18,Manchester City,Manchester United,2,0,10,1,12,1,75.19,19.0,Sunny,Low,37936
+2024-02-19,Juventus,Real Madrid,2,2,1,10,19,7,33.64,5.4,Sunny,High,25805
+2024-02-20,Arsenal,Real Madrid,0,2,5,0,15,10,106.24,28.7,Rainy,Low,29652
+2024-02-21,Barcelona,AC Milan,2,2,4,1,13,11,77.96,13.5,Cloudy,High,28201
+2024-02-22,Barcelona,Manchester City,1,2,3,7,3,3,71.52,29.3,Rainy,High,32252
+2024-02-23,Chelsea,Manchester United,1,2,4,8,12,14,56.43,17.6,Rainy,High,27334
+2024-02-24,Inter Milan,Manchester United,1,0,13,10,16,17,47.69,25.2,Rainy,Medium,36774
+2024-02-25,Chelsea,AC Milan,1,2,9,11,14,2,94.75,5.9,Rainy,Medium,26894
+2024-02-26,Arsenal,PSG,1,2,12,1,6,3,59.72,7.6,Cloudy,Low,36718
+2024-02-27,Manchester United,Inter Milan,0,2,12,3,4,10,98.92,17.5,Sunny,Medium,43020
+2024-02-28,Bayern Munich,Juventus,2,2,0,11,19,10,48.38,14.1,Rainy,Low,18548
+2024-02-29,Juventus,Manchester United,1,4,10,13,9,3,72.45,15.3,Sunny,Low,36038
+2024-03-01,Inter Milan,AC Milan,2,1,7,5,19,2,75.68,19.3,Sunny,Low,24017
+2024-03-02,Real Madrid,Bayern Munich,2,1,14,0,14,6,78.12,8.9,Cloudy,Low,39944
+2024-03-03,PSG,Manchester United,1,2,6,9,12,2,52.24,25.2,Cloudy,High,25889
+2024-03-04,Arsenal,Manchester United,1,0,0,4,12,18,32.43,23.3,Rainy,Low,20902
+2024-03-05,Inter Milan,Juventus,0,0,7,5,8,11,99.53,10.0,Rainy,Medium,36030
+2024-03-06,Manchester United,Arsenal,3,1,9,13,4,13,78.83,22.1,Cloudy,Low,41904
+2024-03-07,Real Madrid,Inter Milan,0,0,0,8,17,1,59.15,18.3,Rainy,Medium,14632
+2024-03-08,Liverpool,Chelsea,5,2,2,6,19,8,89.37,9.2,Cloudy,Medium,27197
+2024-03-09,Inter Milan,Bayern Munich,0,1,3,5,2,10,69.4,23.9,Rainy,High,39371
+2024-03-10,AC Milan,Real Madrid,1,2,14,12,8,5,68.64,15.2,Sunny,Medium,39999
+2024-03-11,Inter Milan,Liverpool,1,1,10,4,20,11,115.91,13.6,Sunny,Low,31193
+2024-03-12,Manchester United,Inter Milan,1,2,7,11,11,12,30.22,28.0,Rainy,Medium,31580
+2024-03-13,Barcelona,Chelsea,1,2,8,5,19,14,113.44,28.1,Sunny,Medium,37716
+2024-03-14,Arsenal,Manchester United,1,3,4,14,9,9,40.56,24.7,Sunny,Medium,31871
+2024-03-15,PSG,Real Madrid,1,0,10,1,17,11,23.28,27.8,Sunny,High,31345
+2024-03-16,PSG,Bayern Munich,0,1,9,11,18,17,37.8,29.0,Sunny,Low,34517
+2024-03-17,Barcelona,Chelsea,1,1,12,7,17,7,79.54,6.7,Cloudy,Medium,43609
+2024-03-18,Manchester United,Chelsea,1,1,1,0,14,19,65.33,18.1,Sunny,Low,20878
+2024-03-19,Chelsea,Bayern Munich,2,0,0,7,7,3,57.33,11.8,Cloudy,Medium,29307
+2024-03-20,Arsenal,Manchester City,0,1,0,8,3,8,30.41,25.0,Cloudy,High,32314
+2024-03-21,Inter Milan,PSG,1,1,1,2,14,14,103.02,14.9,Rainy,High,25178
+2024-03-22,Arsenal,Barcelona,1,1,11,1,2,1,101.74,13.5,Sunny,Medium,38446
+2024-03-23,Manchester United,Bayern Munich,2,4,4,4,6,9,63.61,12.4,Rainy,High,38265
+2024-03-24,PSG,Bayern Munich,0,0,6,8,11,14,118.44,18.1,Rainy,Medium,33716
+2024-03-25,Bayern Munich,Inter Milan,3,0,10,5,18,10,77.65,11.9,Rainy,Medium,33768
+2024-03-26,PSG,Inter Milan,2,0,11,12,7,10,111.44,15.5,Sunny,Low,42648
+2024-03-27,PSG,Real Madrid,4,3,10,0,19,4,97.1,6.7,Sunny,Low,27235
+2024-03-28,Juventus,Real Madrid,1,2,14,3,19,3,104.15,26.2,Rainy,Low,36928
+2024-03-29,Chelsea,Real Madrid,0,0,7,0,1,11,79.83,16.5,Rainy,Low,40857
+2024-03-30,Juventus,Inter Milan,0,4,0,12,17,10,89.06,18.0,Sunny,High,19716
+2024-03-31,Real Madrid,Chelsea,1,2,5,7,18,12,42.12,29.7,Rainy,High,29455
+2024-04-01,Juventus,PSG,3,1,13,14,7,9,39.26,7.9,Cloudy,Medium,42501
+2024-04-02,Manchester United,AC Milan,3,2,6,0,14,3,76.07,17.0,Rainy,Medium,33890
+2024-04-03,Manchester United,Manchester City,1,5,0,12,10,12,43.3,5.6,Cloudy,Low,27508
+2024-04-04,AC Milan,Inter Milan,2,1,13,0,12,16,107.37,29.6,Cloudy,Medium,38698
+2024-04-05,Liverpool,Real Madrid,0,2,13,1,4,18,43.36,6.1,Sunny,Medium,41185
+2024-04-06,Juventus,Inter Milan,3,1,7,3,12,5,98.63,7.2,Sunny,Low,32899
+2024-04-07,PSG,Manchester United,1,2,4,2,13,14,43.07,9.4,Rainy,Medium,29777
+2024-04-08,Barcelona,Liverpool,0,2,14,6,17,9,112.78,29.9,Sunny,Low,39330
+2024-04-09,Liverpool,Manchester City,1,1,5,12,15,9,109.49,26.5,Sunny,Medium,27370
